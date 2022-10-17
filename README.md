@@ -1,1 +1,2 @@
-# Practice python project hangman
+# Practice python project
+Python
